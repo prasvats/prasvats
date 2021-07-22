@@ -8,7 +8,7 @@ I'm a DevOps Engineer, born in India. I enjoy being part of system design, produ
 
 ## Some of my open-source projects
 
-- [ecs-fargate-catalyst](https://github.com/prasvats/terraform) - Run ECS Faraget on AWS.
+- [ecs-fargate-catalyst](https://github.com/prasvats/terraform) - Run ECS Faraget on AWS using Terraform.
 - [k8-autoScalar](https://github.com/prasvats/k8s-rabbit-pod-autoscaler) - RabbitMq autoscalar for Kubernetes
 - [work-&-blog](https://prashant-vats.medium.com/) - My doing @Medium.
 - [hibernate-starter](https://github.com/prasvats/hibernate-starter) - Hibernate Stater ORM
