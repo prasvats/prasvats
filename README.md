@@ -4,7 +4,11 @@
 
 I'm a DevOps Engineer, born in India. I enjoy being part of system design, product lifecycle, strategic planning through development, deployment and maintenance. I continously working to solving the fundamental question by buidling custom solution in python  -  'what do developers think should change,  if they were to do the Ops'.  
 
-- 🌱 I’m currently learning kubernetes.
+- Python Developer
+- Certified Kubernetes Administrator
+- Amazon Web Service
+- Azure Cloud
+- Google Cloud
 
 ## Some of my open-source projects
 
